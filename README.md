@@ -20,9 +20,11 @@ Also there are not charging any extra fees for color PCB. $2 for 10 PCBs (Any Co
 
 So first of we have a question in mind that what is polar CNC right, and how it is different from our 
 standerd CNC machine.
+
 SO let me explain you in normal 2 or 3 Axis CNC machine all axis are have liner motion only.
 Like X-axis moves left & right Y-axis movies backward and forward, and Z - axis moves UP & DOWN
 But in this polar CNC machine the table of CNC machine
+
 or the Y-axis of CNC machine is not moving left and right or backward & forward 
 it is moving in circular motion, yes Y-axis is directly connected with the stepper motor
 stepper motor rotates the Y--axis in circulation path.
