@@ -53,11 +53,23 @@ this stepper motor is drive through the A4988 stepper driver IC
 
 ## SOFTWARE & FIRMWARE ##
 
+I use a modified version of Grbl 1.1f.  Grbl does not support servos, so I needed to hack that in.  
+
+I used the PWM that is normally used for the spindle speed to control the servo. I turned off the variable speed spindle option and streamlined the spindle functions to the bare minimum I thought Grbl needed.  I adjusted the PWM parameters for use with a servo and added pen_up() and pen_down() functions. 
+
+I tried to put as much of the custom code into one file spindle_control.c. I had to add a few lines in stepper.c to look at the current machine Z height and apply the correct pen up/down function.
+
 ou need arduino IDE to upload code to arduino
 
 and need a special software to process normal G-code to polar G-code Special thanks to bdring they have 
 
 developed a software which can convert normal G-code into Polar G-code..
+
+http://www.buildlog.net/blog/2017/08/...
+
+Firmware : -http://www.buildlog.net/blog/2017/08/...
+
+G-code processor :- http://www.buildlog.net/blog/wp-conte...
 
 ## CUSTOM MADE PCB ## 
 
