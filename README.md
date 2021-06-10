@@ -42,6 +42,13 @@ Nema 17:- https://amzn.to/2TNPUa8
 
 Servo :- https://amzn.to/2TZqUfw
 
+## STEPPER MOTORS ##
+
+We have used 2 stepper motors in this project one for X -axis and one for Y-axis
+I have choosen the NEMA 17 version of stepper motor
+this stepper motor is drive through the A4988 stepper driver IC
+
+
 ## SOFTWARE & FIRMWARE ##
 
 ou need arduino IDE to upload code to arduino
