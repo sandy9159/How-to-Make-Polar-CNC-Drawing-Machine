@@ -182,15 +182,11 @@ I tried to put as much of the custom code into one file spindle_control.c. I had
 
 ou need arduino IDE to upload code to arduino
 
-and need a special software to process normal G-code to polar G-code Special thanks to bdring they have 
-
-developed a software which can convert normal G-code into Polar G-code..
-
-http://www.buildlog.net/blog/2017/08/...
-
-Firmware : -http://www.buildlog.net/blog/2017/08/...
-
-G-code processor :- http://www.buildlog.net/blog/wp-conte...
+and need a special software to process normal G-code to polar G-code for that we have Polar processor which you can donload from here
+also your system must have Python installed on your computer
 
 
 
+
+
+ 
