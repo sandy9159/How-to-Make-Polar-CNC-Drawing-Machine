@@ -15,11 +15,11 @@ Polar CNC are work in 360 degree format while traditional CNC are work in Cartes
 
 In this this machine the Y axis (turn table) is polar format,
 
-I have used a Custom made PCB to give professional look to my project, I ordered my PCB from [JLCPCB](JLCPCB.COM) they have very affordable rates for PCB
+I have used a Custom made PCB to give professional look to my project, I ordered my PCB from [JLCPCB](https://jlcpcb.com/IAT ) they have very affordable rates for PCB
 
 Also there are not charging any extra fees for color PCB.
 They have Special offer of $2 for 1-4 Layer PCBs, free SMT assembly monthly.
-If you get yourself registered today at [JLCPCB](JLCPCB.COM) you get 18$ welcome coupon from [JLCPCB](JLCPCB.COM).
+If you get yourself registered today at [JLCPCB](https://jlcpcb.com/IAT ) you get 18$ welcome coupon from [JLCPCB](https://jlcpcb.com/IAT ).
 
 
 ## WHAT IS POLAR CNC MACHINE ##
@@ -118,7 +118,7 @@ Servo :- https://amzn.to/2TZqUfw
 
 Making such projects without PCB is night mare yes trust me
 you cannot get wanted result and professional touch in your project if you ignore PCB
-So some days back I have developed my Multipurpose PCB. and order it from [JLCPCB](JLCPCB.COM)
+So some days back I have developed my Multipurpose PCB. and order it from [JLCPCB](https://jlcpcb.com/IAT )
 This PCB is used to build wide range of arduino projects 
 
 This PCB is specialy designe for CNC machine it have two L293D IC which control two stepper motors
